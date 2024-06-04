@@ -1,0 +1,8 @@
+Python fornece várias maneiras de ler um arquivo. Podemos usar 'read()', 'readline()' ou 'readlines()' dependendo de nossas necessidades
+
+
+Boas práticas na manipulação de arquivos
+
+Bloco with
+
+Use o gerenciamento de (context manager) com a declaração 'with'. O gerenciamento permite trabalhar com arquivos de forma segura, garantindo que eles sejam fechados corretamente, mesmo em caso de exceções.

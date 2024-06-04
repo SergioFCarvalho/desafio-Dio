@@ -1,0 +1,2 @@
+Podemos usar 'write()' ou 'writelines' para escrever em um arquivo. Lembre-se de abrir o arquivo no modo correto.
+Hello programmer 
